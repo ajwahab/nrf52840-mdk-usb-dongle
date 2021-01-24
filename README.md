@@ -89,6 +89,7 @@ If your Application uses a SoftDevice the start address for the FLASH memory mus
 |S332|5.0.0|0x20001F30|0x2D000|
 |S332|6.1.1|0x20002000|0x30000|
 |S340|6.1.1|0x20002000|0x31000|
+
 *Table 1*: Different start addresses for RAM and FLASH memory
 
 ## Addresses for the ARM GCC Compiler
