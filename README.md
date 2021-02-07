@@ -17,7 +17,7 @@ For your Application to run correct, the RAM and FLASH start addresses must be c
 
 ![Alt text](https://infocenter.nordicsemi.com/topic/sds_s140/SDS/s1xx/mbr_bootloader/images/master_boot_record_s132.svg?sanitize=true)
 
-For more infor: [link](https://infocenter.nordicsemi.com/index.jsp?topic=%2Fsds_s140%2FSDS%2Fs1xx%2Fmbr_bootloader%2Fmbr_bootloader.html&anchor=mbr_bootloader)
+For more information: [Nordic](https://infocenter.nordicsemi.com/index.jsp?topic=%2Fsds_s140%2FSDS%2Fs1xx%2Fmbr_bootloader%2Fmbr_bootloader.html&anchor=mbr_bootloader)
 
 ## 1. The Application does not use a SoftDevice nor MBR
 If the Application does not use a SoftDevice or a Master Boot Record, then the start address for the FLASH memory should always be set to **0x0** and the start address for the RAM should be set to **0x2000 0000**.
